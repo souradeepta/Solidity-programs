@@ -4,7 +4,7 @@ Small programs written to test and learn solidity
 
 ## Getting Started
 
-You can run the code on Remix IDE online [here] (https://remix.ethereum.org/)
+You can run the code on Remix IDE online [here](https://remix.ethereum.org/)
 Make sure you check compiler version before compling the code which in our case is 0.4.13
 
 ### Prerequisites
@@ -25,7 +25,7 @@ None
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
